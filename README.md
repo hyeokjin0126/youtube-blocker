@@ -1,2 +1,1 @@
-# shorts-block
-youtube shorts 시청을 멈춰줍니다
+## 과도한 youtube 시청을 막아줍니다. 
